@@ -1,8 +1,4 @@
- # EX 1 VIRTUAL MACHINE CREATION IN LINUX
- ```
-Reg no: 212222040084
-Name: Kumudhini T
-```
+ # VIRTUAL MACHINE CREATION IN LINUX
  
  ## AIM
 To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
@@ -65,13 +61,15 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
+### REG NUMBER: 212222040084
+### NAME: KUMUDHINI T
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/7d3159a1-9e95-4eba-84fa-6999914fdace)
-
+![78465ace-4cfc-4cec-95cd-530b15d968a2](https://github.com/user-attachments/assets/f3ba8c64-01a2-41b8-b369-df05c2894b0e)
 
 ## RESULT
- Successfully installed CentOS on a virtual mac # EX 1 VIRTUAL MACHINE CREATION IN LINUX
+ Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development.
 
+  
 
 
